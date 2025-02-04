@@ -1,3 +1,4 @@
+print("Введите n(n>0):")
 n=int(input())
 sprev=[1]
 s=[1]
