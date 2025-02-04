@@ -1,4 +1,3 @@
-
 n = 3
 s = [int(input()) for i in range(n)]
 min_num = s[0]
